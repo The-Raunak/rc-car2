@@ -1,0 +1,218 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Ceviche+One&display=swap');
+
+body { 
+    text-align: center; 
+    margin: 0;
+    padding-top: 10px;
+    font-family: 'Ceviche One', cursive;
+    font-size: 30px;
+    background-color: gainsboro;
+}
+#img {
+  position: relative;
+  top: 1%;
+  left: 30%;
+  height: 12vh;
+  width: 12vh;
+}
+.button11 {
+    position: absolute;
+    left: 11%;
+    top: 35%;
+  padding: 15px 12px;
+  font-size: 25px;
+  font-family: 'Ceviche One', cursive;
+  text-align: center;
+  outline: none;
+  color: #fff;
+  background-color: #2f4468;
+  border: none;
+  border-radius: 5px;
+ box-shadow: 1px 1px 10px  rgb(8, 181, 255);
+  cursor: pointer;
+  -webkit-touch-callout: none;
+  -webkit-user-select: none;
+  -khtml-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+  -webkit-tap-highlight-color: rgba(0,0,0,0);
+}  
+
+.button12 {
+    position: absolute;
+    left: 38%;
+    top: 28%;
+  padding: 15px 12px;
+  font-size: 25px;
+  font-family: 'Ceviche One', cursive;
+  text-align: center;
+  outline: none;
+  color: #fff;
+  background-color: #2f4468;
+  border: none;
+  border-radius: 5px;
+ box-shadow: 1px 1px 10px  rgb(8, 181, 255);
+  cursor: pointer;
+  -webkit-touch-callout: none;
+  -webkit-user-select: none;
+  -khtml-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+  -webkit-tap-highlight-color: rgba(0,0,0,0);
+}  
+
+.button13 {
+    position: absolute;
+    left: 65%;
+    top: 35%;
+  padding: 15px 12px;
+  font-size: 25px;
+  font-family: 'Ceviche One', cursive;
+  text-align: center;
+  outline: none;
+  color: #fff;
+  background-color: #2f4468;
+  border: none;
+  border-radius: 5px;
+ box-shadow: 1px 1px 10px  rgb(8, 181, 255);
+  cursor: pointer;
+  -webkit-touch-callout: none;
+  -webkit-user-select: none;
+  -khtml-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+  -webkit-tap-highlight-color: rgba(0,0,0,0);
+}  
+.button2 {
+  position: absolute;
+  left: 65%;
+  top: 48%;
+padding: 15px 15px;
+font-size: 30px;
+font-family: 'Ceviche One', cursive;
+text-align: center;
+outline: none;
+color: #fff;
+background-color: #2f4468;
+border: none;
+border-radius: 5px;
+box-shadow: 1px 1px 10px  rgb(8, 181, 255);
+cursor: pointer;
+-webkit-touch-callout: none;
+-webkit-user-select: none;
+-khtml-user-select: none;
+-moz-user-select: none;
+-ms-user-select: none;
+user-select: none;
+-webkit-tap-highlight-color: rgba(0,0,0,0);
+}  
+.button4 {
+  position: absolute;
+  left: 36%;
+  top: 60%;
+padding: 15px 25px 15px 25px;
+font-size: 30px;
+font-family: 'Ceviche One', cursive;
+text-align: center;
+outline: none;
+color: #fff;
+background-color: #2f4468;
+border: none;
+border-radius: 5px;
+box-shadow: 1px 1px 10px  rgb(8, 181, 255);
+cursor: pointer;
+-webkit-touch-callout: none;
+-webkit-user-select: none;
+-khtml-user-select: none;
+-moz-user-select: none;
+-ms-user-select: none;
+user-select: none;
+-webkit-tap-highlight-color: rgba(0,0,0,0);
+}  
+
+
+.button3 {
+  position: absolute;
+  left: 9%;
+  top: 48%;
+    padding: 15px 20px;
+    font-size: 30px;
+  font-family: 'Ceviche One', cursive;
+    text-align: center;
+    outline: none;
+    color: #fff;
+    background-color: #2f4468;
+    border: none;
+    border-radius: 5px;
+    box-shadow: 1px 1px 10px  rgb(8, 181, 255);
+    cursor: pointer;
+    -webkit-touch-callout: none;
+    -webkit-user-select: none;
+    -khtml-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+    -webkit-tap-highlight-color: rgba(0,0,0,0);
+}  
+
+
+
+.button11:hover {
+    background-color: #1f2e45;
+    box-shadow: 1px 1px 10px  rgb(235, 72, 72);
+}
+.button11:active {
+    background-color: #1f2e45;
+    box-shadow: 1px 1px 10px  rgb(136, 246, 46);
+  transform: translateY(2px);
+}
+.button12:hover {
+    background-color: #1f2e45;
+    box-shadow: 1px 1px 10px  rgb(235, 72, 72);
+}
+.button12:active {
+    background-color: #1f2e45;
+    box-shadow: 1px 1px 10px  rgb(136, 246, 46);
+  transform: translateY(2px);
+}
+.button13:hover {
+    background-color: #1f2e45;
+    box-shadow: 1px 1px 10px  rgb(235, 72, 72);
+}
+.button13:active {
+    background-color: #1f2e45;
+    box-shadow: 1px 1px 10px  rgb(136, 246, 46);
+  transform: translateY(2px);
+}
+.button2:hover {   
+    background-color: #1f2e45;
+    box-shadow: 1px 1px 10px  rgb(235, 72, 72);
+}
+.button2:active {
+    background-color: #1f2e45;
+    box-shadow: 1px 1px 10px  rgb(136, 246, 46);
+  transform: translateY(2px);
+}
+.button3:hover {
+    background-color: #1f2e45;
+    box-shadow: 1px 1px 10px  rgb(235, 72, 72);
+}
+.button3:active {
+    background-color: #1f2e45;
+    box-shadow: 1px 1px 10px  rgb(136, 246, 46);
+  transform: translateY(2px);
+}
+.button4:hover {
+    background-color: #1f2e45;
+    box-shadow: 1px 1px 10px  rgb(235, 72, 72);
+}
+.button4:active {
+    background-color: #1f2e45;
+    box-shadow: 1px 1px 10px  rgb(136, 246, 46);
+  transform: translateY(2px);
+}
+/* } */
